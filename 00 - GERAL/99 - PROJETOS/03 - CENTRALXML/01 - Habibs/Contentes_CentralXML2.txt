@@ -1,0 +1,5 @@
+[Info  - 23:28:33] Start regular compiling c:/Developer/NexxPartner/Central-XML/MDFAQV01.PRW (1/2).
+[Info  - 23:28:33] [WARNING] Source c:/Developer/NexxPartner/Central-XML/MDFAQV01.PRW compiled with warnings and/or non fatal errors.
+[Info  - 23:28:33] Start regular compiling c:/Developer/NexxPartner/Central-XML/MDFAQV02.PRW (2/2).
+[Info  - 23:28:33] [SKIPPED] Source c:/Developer/NexxPartner/Central-XML/MDFAQV02.PRW already compiled.
+[Info  - 23:28:33] Committing end build.
