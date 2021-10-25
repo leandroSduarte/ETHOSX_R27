@@ -1,0 +1,20 @@
+Estrutura de pastas por ambiente.
+00 - GERAL (Fontes que podem ser compilados em todas as bases)
+01 - HAB_RAG_CHU
+02 - REX
+03 - GGB
+04 - EC_VOX_GST
+
+Estrutura interna de pastas.
+01 - ATV
+02 - COM
+04 - EST
+05 - FAT
+06 - FIN
+07 - GPE
+09 - FIS
+10 - PCP
+34 - CTB
+99 - PROJETOS
+
+
