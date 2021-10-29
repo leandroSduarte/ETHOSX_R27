@@ -56,7 +56,7 @@ static function QWSC23()
 	local cFilExc  	:= SuperGetMV('FS_FILEXC',,"2550")//Filiais que não devem ter os pedidos excluidos/Bloquados.
 	local nDiasExc	:= 0
 	local cTab		:= getNextAlias()
-	//by leandro Duarte
+	//by leandro Duarte 
 	IF XFILIAL("SC7") >= '2551' .and. (XFILIAL("SC7")<>'9000' .or. XFILIAL("SC7") <> '9001')
 		nDiasExc    	:= SuperGetMV('FS_PRZENT2',,8)
 	ENDIF
