@@ -45,7 +45,7 @@ Vencimento. Caso esteja vencido o pedido e esteja dentro da filial
 sera liberado! caso contrario sera bloqueado 
 @author  Leandro Duarte
 @since   29/10/2021
-@version 12.1.27
+@version 12.1.27 
 /*/
 //-------------------------------------------------------------------
 static function QWSC23()
