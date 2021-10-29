@@ -3,6 +3,7 @@
     "githubPullRequests.remotes": [
         "origin",
         "upstream",
-        "git@github.com:HabibsProtheus/ETHOSX_R27.git"
+        "git@github.com:HabibsProtheus/ETHOSX_R27.git",
+        "vscode://vscode.github-authentication/did-authenticate?windowid=1&code=0583fe9619fb86cc1fcc&state=14874b95-044d-4806-84cd-2f7b47064228"
     ]
 }
