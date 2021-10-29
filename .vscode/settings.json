@@ -1,3 +1,8 @@
 {
-    "totvsLanguageServer.welcomePage": false
+    "totvsLanguageServer.welcomePage": false,
+    "githubPullRequests.remotes": [
+        "origin",
+        "upstream",
+        "git@github.com:HabibsProtheus/ETHOSX_R27.git"
+    ]
 }
